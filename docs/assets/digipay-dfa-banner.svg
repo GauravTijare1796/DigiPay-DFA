@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">DigiPay-DFA</title>
+  <desc id="description">A deterministic finite automaton diagram for an educational payment transaction validator.</desc>
+  <rect width="1200" height="320" fill="#0f1e38" rx="8"/>
+  <path d="M0 278H1200" stroke="#263b58" stroke-width="1"/>
+  <text x="64" y="116" fill="#ffffff" font-family="Georgia, serif" font-size="52" font-weight="700">DigiPay-DFA</text>
+  <text x="66" y="158" fill="#b7c8dc" font-family="Arial, sans-serif" font-size="19">Deterministic finite automata for simulated payment validation</text>
+  <text x="66" y="218" fill="#64b5f6" font-family="Consolas, monospace" font-size="15">q0  →  q1  →  q2  →  q4  →  q6  →  q7  →  q8  →  q9</text>
+  <text x="66" y="252" fill="#82d6a8" font-family="Arial, sans-serif" font-size="14">Theory of Computation · Educational simulation only · No real payments</text>
+  <g fill="none" stroke="#5d7696" stroke-width="2">
+    <path d="M794 122H868"/><path d="M902 122H976"/><path d="M1010 122H1084"/>
+  </g>
+  <g font-family="Consolas, monospace" font-size="16" text-anchor="middle">
+    <circle cx="778" cy="122" r="24" fill="#17304d" stroke="#69aef2" stroke-width="2"/>
+    <text x="778" y="128" fill="#ffffff">q0</text>
+    <circle cx="886" cy="122" r="24" fill="#17304d" stroke="#69aef2" stroke-width="2"/>
+    <text x="886" y="128" fill="#ffffff">q1</text>
+    <circle cx="994" cy="122" r="24" fill="#17304d" stroke="#69aef2" stroke-width="2"/>
+    <text x="994" y="128" fill="#ffffff">q2</text>
+    <circle cx="1102" cy="122" r="24" fill="#173b31" stroke="#69c995" stroke-width="2"/>
+    <circle cx="1102" cy="122" r="19" fill="none" stroke="#69c995" stroke-width="1"/>
+    <text x="1102" y="128" fill="#ffffff">q9</text>
+  </g>
+  <text x="778" y="170" fill="#91a8c1" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">start</text>
+  <text x="1102" y="170" fill="#82d6a8" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">accept</text>
+</svg>
